@@ -1,0 +1,8 @@
+Origin: Nebula Linux
+Label: Nebula
+Suite: stable
+Codename: pluto
+Architectures: amd64
+Components: main
+Description: Nebula Linux APT Repository
+
